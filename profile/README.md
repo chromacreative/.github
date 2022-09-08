@@ -1,3 +1,3 @@
-<a href="https://github.com/sapphire-organization">
+<a href="https://github.com/sapphire-organization/nebula">
   <img src="https://i.imgur.com/kYQdUDU.png" alt="banner">
 </a>
